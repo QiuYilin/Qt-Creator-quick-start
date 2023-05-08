@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1/modelview1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/modelview1.dir/modelview1_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1/modelview1_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1/modelview1_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-1/modelview1/modelview1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/modelview1.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-1/modelview1/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-1/modelview1/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1/modelview2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/modelview2.dir/modelview2_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1/modelview2_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1/modelview2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-2/modelview1/modelview2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/modelview2.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-2/modelview1/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-2/modelview1/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel/mymodel_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel.dir/mymodel_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel/mymodel_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel/mymodel_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel/mymodel_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-3/mymodel/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-3/mymodel/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-3/mymodel/mymodel_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel.dir/stringlistmodel.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-3/mymodel/stringlistmodel.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-3/mymodel/stringlistmodel.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel/mymodel2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel2.dir/mymodel2_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel/mymodel2_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel/mymodel2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel/mymodel2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel2.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-4/mymodel/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-4/mymodel/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-4/mymodel/mymodel2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/mymodel2.dir/stringlistmodel.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-4/mymodel/stringlistmodel.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-4/mymodel/stringlistmodel.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection/myselection_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection.dir/myselection_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection/myselection_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection/myselection_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection/myselection_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-6/myselection/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-6/myselection/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-6/myselection/myselection_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection.dir/mainwindow.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-6/myselection/mainwindow.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-6/myselection/mainwindow.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection2.dir/myselection2_autogen/mocs_compilation.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/mocs_compilation.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection2.dir/main.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/main.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/main.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection2.dir/mainwindow.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/mainwindow.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/mainwindow.cpp"
+},
+{
+  "directory": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build/16/16-9/myselection/myselection2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/myselection2.dir/spinboxdelegate.cpp.o -c /home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/spinboxdelegate.cpp",
+  "file": "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/16/16-9/myselection/spinboxdelegate.cpp"
+}
+]

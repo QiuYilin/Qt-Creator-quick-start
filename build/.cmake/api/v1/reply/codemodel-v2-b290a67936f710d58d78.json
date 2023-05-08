@@ -1,0 +1,367 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "16",
+					"childIndexes" : 
+					[
+						2,
+						4,
+						6,
+						8,
+						10,
+						12
+					],
+					"jsonFile" : "directory-16-Debug-8dd3e3afc17fba5ba67f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "16"
+				},
+				{
+					"build" : "16/16-1",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-16.16-1-Debug-9bcb73b3c46d117886c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-1"
+				},
+				{
+					"build" : "16/16-1/modelview1",
+					"jsonFile" : "directory-16.16-1.modelview1-Debug-764508b1ec04240dbc99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "16/16-1/modelview1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "16/16-2",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-16.16-2-Debug-b9416837bc31c258b059.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-2"
+				},
+				{
+					"build" : "16/16-2/modelview1",
+					"jsonFile" : "directory-16.16-2.modelview1-Debug-1da5aa075c9fe41faad1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "16/16-2/modelview1",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "16/16-3",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-16.16-3-Debug-55dc3e09eb3f4c486876.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-3"
+				},
+				{
+					"build" : "16/16-3/mymodel",
+					"jsonFile" : "directory-16.16-3.mymodel-Debug-f935a644c8eb51f29b71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "16/16-3/mymodel",
+					"targetIndexes" : 
+					[
+						4,
+						7
+					]
+				},
+				{
+					"build" : "16/16-4",
+					"childIndexes" : 
+					[
+						9
+					],
+					"jsonFile" : "directory-16.16-4-Debug-280100d6478f085e27a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-4"
+				},
+				{
+					"build" : "16/16-4/mymodel",
+					"jsonFile" : "directory-16.16-4.mymodel-Debug-f12e6be6e6f28aad3526.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "16/16-4/mymodel",
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				},
+				{
+					"build" : "16/16-6",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-16.16-6-Debug-0ec55d8ce5b31458831e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-6"
+				},
+				{
+					"build" : "16/16-6/myselection",
+					"jsonFile" : "directory-16.16-6.myselection-Debug-f563f3595e2d6b5a2892.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "16/16-6/myselection",
+					"targetIndexes" : 
+					[
+						8,
+						11
+					]
+				},
+				{
+					"build" : "16/16-9",
+					"childIndexes" : 
+					[
+						13
+					],
+					"jsonFile" : "directory-16.16-9-Debug-95c4c5f1ae1f0ead32b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "16/16-9"
+				},
+				{
+					"build" : "16/16-9/myselection",
+					"jsonFile" : "directory-16.16-9.myselection-Debug-c8d87af5f7e2ae4c7666.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 0,
+					"source" : "16/16-9/myselection",
+					"targetIndexes" : 
+					[
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					],
+					"name" : "QtCreatorQuickStart",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "modelview1::@00e112da37098dd4b7b1",
+					"jsonFile" : "target-modelview1-Debug-077918ee2a8870e3d52c.json",
+					"name" : "modelview1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "modelview1_autogen::@00e112da37098dd4b7b1",
+					"jsonFile" : "target-modelview1_autogen-Debug-20a13b93a7f1d32575d8.json",
+					"name" : "modelview1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modelview2::@0e7605a15fc78888c87d",
+					"jsonFile" : "target-modelview2-Debug-39aeddad63c89f625db7.json",
+					"name" : "modelview2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "modelview2_autogen::@0e7605a15fc78888c87d",
+					"jsonFile" : "target-modelview2_autogen-Debug-ad42c4a1a6ead288eac0.json",
+					"name" : "modelview2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "mymodel::@3b0cb7582ae7f3cd44dc",
+					"jsonFile" : "target-mymodel-Debug-e00038ddad0d301b582f.json",
+					"name" : "mymodel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "mymodel2::@90b9627b631a00d4223d",
+					"jsonFile" : "target-mymodel2-Debug-20fc81ab137017463543.json",
+					"name" : "mymodel2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "mymodel2_autogen::@90b9627b631a00d4223d",
+					"jsonFile" : "target-mymodel2_autogen-Debug-a6667a142987c79dfe07.json",
+					"name" : "mymodel2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "mymodel_autogen::@3b0cb7582ae7f3cd44dc",
+					"jsonFile" : "target-mymodel_autogen-Debug-728b822a9371c61830e2.json",
+					"name" : "mymodel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "myselection::@5170ea12ea640c9d7635",
+					"jsonFile" : "target-myselection-Debug-a0ac8f3c6a3ece3e1feb.json",
+					"name" : "myselection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "myselection2::@be3d9bc24fa5566c1f06",
+					"jsonFile" : "target-myselection2-Debug-224f84e4fbdd409dfbb3.json",
+					"name" : "myselection2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "myselection2_autogen::@be3d9bc24fa5566c1f06",
+					"jsonFile" : "target-myselection2_autogen-Debug-8d1300e24722bddc8b54.json",
+					"name" : "myselection2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "myselection_autogen::@5170ea12ea640c9d7635",
+					"jsonFile" : "target-myselection_autogen-Debug-476cd25772822be9ee2c.json",
+					"name" : "myselection_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start/build",
+		"source" : "/home/qiuyilin/Program/book_code/Qt-Creator-quick-start"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

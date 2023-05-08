@@ -1,0 +1,6 @@
+add_subdirectory(16-1)
+add_subdirectory(16-2)
+add_subdirectory(16-3)
+add_subdirectory(16-4)
+add_subdirectory(16-6)
+add_subdirectory(16-9)
