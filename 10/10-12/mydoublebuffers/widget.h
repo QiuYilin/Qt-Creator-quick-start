@@ -1,4 +1,4 @@
-﻿#ifndef WIDGET_H
+#ifndef WIDGET_H
 #define WIDGET_H
 
 #include <QWidget>
@@ -14,20 +14,28 @@ class Widget : public QWidget
 public:
     explicit Widget(QWidget *parent = nullptr);
     ~Widget();
-protected:
-    void mousePressEvent(QMouseEvent *event);
-    void mouseMoveEvent(QMouseEvent *event);
-    void mouseReleaseEvent(QMouseEvent *event);
-    void paintEvent(QPaintEvent *event);
+
 private:
     Ui::Widget *ui;
-    //缓冲区
+
+    // 缓冲区
     QPixmap pix;
-    //临时缓冲区
+
+    // 临时缓冲区
     QPixmap tempPix;
+
     QPoint startPoint;
     QPoint endPoint;
+
+    // 是否正在绘图的标志
     bool isDrawing;
+
+protected:
+    void mousePressEvent(QMouseEvent *event) override;
+    void mouseMoveEvent(QMouseEvent *event) override;
+    void mouseReleaseEvent(QMouseEvent *event) override;
+    void paintEvent(QPaintEvent *event) override;
+
 };
 
 #endif // WIDGET_H
