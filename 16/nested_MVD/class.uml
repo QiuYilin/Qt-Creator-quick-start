@@ -1,0 +1,53 @@
+@startuml
+StepModel --|> QAbstractItemModel
+DefinitionModel --|> QAbstractItemModel
+StepModel --> Definition
+DefinitionModel --> Data
+Step --o Definition
+Definition --o Data
+
+class Step{
+    +bool SomeBoolMember1 {false};
+    +int SomeIntMember1 {0};    
+}
+
+class Definition{
+    +std::vector<std::shared_ptr<Step>> Steps;
+    +bool SomeBoolMember1 {false};
+    +int SomeIntMember1 {0};
+}
+
+class Data{
+    +std::vector<std::shared_ptr<Definition>> definitions;
+}
+
+
+class StepModel{
+    -Definition* definition;
+    +StepModel(Definition* definition, QObject* parent)
+    +index(int row, int column, const QModelIndex &parent = QModelIndex()):QModelIndex
+    +parent(const QModelIndex &child):QModelIndex
+    +rowCount(const QModelIndex &parent = QModelIndex()):int 
+    +columnCount(const QModelIndex &parent = QModelIndex()):int
+    +data(const QModelIndex &index, int role = Qt::DisplayRole):QVariant 
+    +setData(const QModelIndex &index, const QVariant &value, int role = Qt::EditRole):bool
+    +insertRows(int row, int count, const QModelIndex &parent = QModelIndex()):bool
+    +removeRows(int row, int count, const QModelIndex &parent = QModelIndex()):bool
+}
+
+class DefinitionModel{
+    -Data definitionData;
+    +index(int row, int column, const QModelIndex &parent = QModelIndex()):QModelIndex
+    +parent(const QModelIndex &child):QModelIndex
+    +rowCount(const QModelIndex &parent = QModelIndex()):int
+    +columnCount(const QModelIndex &parent = QModelIndex()):int
+    +data(const QModelIndex &index, int role = Qt::DisplayRole):QVariant 
+    +setData(const QModelIndex &index, const QVariant &value, int role = Qt::EditRole):bool
+    +insertRows(int row, int count, const QModelIndex &parent = QModelIndex()):bool
+    +removeRows(int row, int count, const QModelIndex &parent = QModelIndex()):bool
+}
+
+
+
+
+@enduml
